@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SettersGettersTests">
+  <test name="TestSetters">
+    <classes>
+      <class name="TestSetters"/>
+    </classes>
+  </test>
+  <test name="TestGetters">
+    <classes>
+      <class name="TestGetters"/>
+    </classes>
+  </test>
+</suite>
